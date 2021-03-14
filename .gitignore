@@ -1,3 +1,2 @@
-*.wpr
-*.wpu
 __pycache__/
+.venv/
